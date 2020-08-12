@@ -1,0 +1,19 @@
+{
+  "name": "git_github_tut",
+  "version": "1.0.0",
+  "description": "this is my app",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tihornezic/tutorial.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tihornezic/tutorial/issues"
+  },
+  "homepage": "https://github.com/tihornezic/tutorial#readme"
+}
